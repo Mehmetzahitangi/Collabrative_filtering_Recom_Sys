@@ -51,7 +51,8 @@ The the evaluation metric results that calculated are print for each separated s
 ### The Evaluation Metrics
 MAE – Mean Absolute Error and MSE – Mean Squared Error 
 
-* User-based and k-folds is 5:
+User-based and k-folds is 5:
+
 * user-based mean absolute error:  0.26354618616064834
 * user-based mean squared error: 0.24715690635726056
 
@@ -69,7 +70,7 @@ MAE – Mean Absolute Error and MSE – Mean Squared Error
 * General Mean MAE for all iterations:  0.262767056376505
 * General Mean MSE for all iterations:  0.24295381543375746
 
-* Item-based and k-folds is 3:
+Item-based and k-folds is 3:
 * item-based mean absolute error:  0.20001769084087828
 * item-based mean squared error: 0.2917242378634789
 * item-based mean absolute error:  0.20055983528084426
